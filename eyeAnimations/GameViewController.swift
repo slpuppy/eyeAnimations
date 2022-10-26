@@ -1,6 +1,6 @@
 //
 //  GameViewController.swift
-//  eyeAnimations
+//  cryingApp
 //
 //  Created by Gabriel Puppi on 25/10/22.
 //
